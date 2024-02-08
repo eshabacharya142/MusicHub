@@ -1,0 +1,169 @@
+.createEventContainer {
+    padding: 20px;
+  }
+  
+  .backLink {
+    color: #5550bd;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom: 16px;
+    display: inline-block;
+  }
+  
+  h2 {
+    color: #5550bd;
+    margin-top: 16px;
+    margin-bottom: 24px;
+  }
+  
+  .alert {
+    margin-bottom: 16px;
+  }
+  
+  .form-control {
+    margin-bottom: 16px;
+  }
+  
+  .submitButton {
+    margin-top: 24px;
+  }
+  .eventDetailsContainer {
+    padding: 20px;
+  }
+  
+  .backLink {
+    color: #5550bd;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom: 16px;
+    display: inline-block;
+  }
+  
+  .eventNotFoundAlert {
+    margin-top: 50px;
+  }
+  
+  .eventTitle {
+    color: #5550bd;
+    margin-bottom: 20px;
+  }
+  
+  .eventDetails {
+    color: #777;
+    margin-bottom: 20px;
+  }
+  
+  .hostLink {
+    color: #5550bd;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  hr {
+    margin: 24px 0;
+    border: none;
+    border-top: 1px solid #ddd;
+  }
+  .createEventContainer {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .backLink {
+    color: #5550bd;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom: 16px;
+    display: inline-block;
+  }
+  
+  .sectionTitle {
+    color: #5550bd;
+    margin-bottom: 20px;
+  }
+  
+  .alertVisible {
+    display: block;
+    margin-bottom: 16px;
+  }
+  
+  .alertHidden {
+    display: none;
+  }
+  
+  .text-muted {
+    color: #777;
+  }
+  
+  .publishButton {
+    background-color: #5550bd;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-weight: bold;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+  }
+  
+  .previewTitle {
+    color: #5550bd;
+    font-size: 24px;
+    margin-top: 24px;
+    margin-bottom: 16px;
+  }
+  
+  hr {
+    margin: 24px 0;
+    border: none;
+    border-top: 1px solid #ddd;
+  }
+  
+  textarea {
+    resize: none;
+  }
+  .eventDetailsContainer {
+    padding: 20px;
+  }
+  
+  .backLink {
+    color: #5550bd;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom: 16px;
+    display: inline-block;
+  }
+  
+  .eventTitle {
+    color: #5550bd;
+    font-size: 32px;
+  }
+  
+  .hostInfo {
+    margin-top: 16px;
+  }
+  
+  .hostName {
+    color: #5550bd;
+    text-decoration: none;
+  }
+  
+  .eventDate {
+    font-size: 18px;
+    color: #777777;
+    margin-top: 16px;
+  }
+  
+  .eventDescription {
+    margin-top: 24px;
+    line-height: 1.5;
+  }
+  
+  .eventPrice {
+    font-size: 24px;
+    color: #5550bd;
+    margin-top: 24px;
+  }
+  
